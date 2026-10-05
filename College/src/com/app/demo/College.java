@@ -5,5 +5,10 @@ public class College {
 	{
 		System.out.println("Teachers added");
 	}
+	public void removeTeachers()
+	{
+		System.out.println("Teachers remove");
+	}
+
 	
 }
